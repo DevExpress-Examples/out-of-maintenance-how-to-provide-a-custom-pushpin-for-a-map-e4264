@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="MapPushpinTemplate.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">EA-0B-CC-54-87-8F-16-F9-3D-6A-47-C4-9C-17-66-D1-BD-98-B3-B2</my:String>
+  </Application.Resources>
+</Application>
