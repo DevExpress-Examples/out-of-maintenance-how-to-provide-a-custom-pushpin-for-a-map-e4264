@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[MainPage.xaml](./CS/MapPushpinTemplate/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/MapPushpinTemplate/MainPage.xaml.vb))**
+* **[MainPage.xaml](./CS/MapPushpinTemplate/MainPage.xaml) (VB: [MainPage.xaml](./VB/MapPushpinTemplate/MainPage.xaml))**
 * [MainPage.xaml.cs](./CS/MapPushpinTemplate/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MapPushpinTemplate/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to provide a custom pushpin for a map
